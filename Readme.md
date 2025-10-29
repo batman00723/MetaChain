@@ -51,7 +51,5 @@ Developed by Aman Mishra
 
 Contact Address : 0x23281c12F300c779BD6dcC96B6C32015939c0BB3
 
-![alt text](https://github.com/batman00723/MetaChain/blob/main/WhatsApp Image 2025-10-29 at 2.07.59 PM.jpeg?raw=true)
+<img width="1745" height="332" alt="image" src="https://github.com/user-attachments/assets/4ee4678b-27c6-4b80-9d1d-b323a785de93" />
 
-
-https://github.com/batman00723/MetaChain/blob/c01f7e994eda52e555d61783c5f67975b79bdc7a/Contract/WhatsApp%20Image%202025-10-29%20at%202.07.59%20PM.jpeg
