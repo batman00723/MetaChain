@@ -49,4 +49,4 @@ MetaChain envisions a future where blockchain ensures digital sovereignty, asset
 Developed by [Your Name]  
 © 2025 MetaChain Project – All Rights Reserved.
 Contact Address : 0x23281c12F300c779BD6dcC96B6C32015939c0BB3
-
+Contract/WhatsApp Image 2025-10-29 at 2.07.59 PM.jpeg
